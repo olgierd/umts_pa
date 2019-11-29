@@ -28,3 +28,12 @@ The amplifier board comes from a commercial 2100-band cell amplifier. I'm planni
 * internal matching 2110-2170 MHz
 * ~20dB gain, P1dB 230W, 28V
 * datasheet page 7, 2400 MHz: >20dB gain, -10dB IRL
+7. [SKYFR-000819]
+* 0.5 kW 2110-2170 MHz isolator
+* to be replaced with a piece of semirigid coax?
+
+## Steps
+* remove one of the small silver filters and measure its frequency response
+* supply bias voltage to the respective stages, possibly by reusing the AMC7812 chip instead of homebrewing own bias solution
+* read AMC7812 datasheet, check if it has some kind of internal memory
+* identify left-hand-side connectors (where's the main VCC? top left?)
