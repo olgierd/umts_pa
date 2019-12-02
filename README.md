@@ -11,8 +11,8 @@ The amplifier board comes from a commercial 2100-band cell amplifier. I'm planni
 * RF N-MOSFET
 * wideband matching (datasheet says "up to 2000 MHz" - lol)
 * 18 dB gain, P1dB >+37dBm (nice), 28V
-3. [IL05AL(R)2140AAE](http://file2.dzsc.com/product/18/05/15/253834_152117132.png)"2G14 P4N"
-* 2.14G isolator
+3. [IL05AL(R)2140AAE](http://file2.dzsc.com/product/18/05/15/253834_152117132.png)
+* 2.14G isolator "2G14 P4N"
 * 0.6dB loss between 2110-2170 MHz
 * 10W FWD max
 * 2.4 GHz attenuation? I guess not more than 3dB & poor isolation
