@@ -33,6 +33,10 @@ The amplifier board comes from a commercial 2100-band cell amplifier. I'm planni
 * 0.5 kW 2110-2170 MHz isolator
 * to be replaced with a piece of semirigid coax?
 
+![Signals_1](photos/signals_1.jpg)
+![Signals_2](photos/signals_2.jpg)
+
+
 ## Steps
 * remove one of the small silver filters and measure its frequency response
 * supply bias voltage to the respective stages, possibly by reusing the AMC7812 chip instead of homebrewing own bias solution
